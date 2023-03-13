@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DED9C210-64C8-4706-8A44-8BA9A045EDFF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "498D9867-12FF-43B8-97F6-10E02E93E71F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "momo/MessageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getMessages()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A487B19-7A96-456A-9356-BC724B33CE1B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "momo/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "7A487B19-7A96-456A-9356-BC724B33CE1B - 1c427ae66c3f35b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of momo.ContentView.messagesManager : momo.MessagesManager"
+                  moduleName = "momo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Documents/A01_Obsidian/A03_Code/04_Swift/momo/momo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "7A487B19-7A96-456A-9356-BC724B33CE1B - df1b3d63b2e6f3e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "momo.ContentView.messagesManager.getter : momo.MessagesManager"
+                  moduleName = "momo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Documents/A01_Obsidian/A03_Code/04_Swift/momo/momo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "7A487B19-7A96-456A-9356-BC724B33CE1B - dcdf04718973911"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "momo.ContentView.$messagesManager.getter : SwiftUI.ObservedObject&lt;momo.MessagesManager&gt;.Wrapper"
+                  moduleName = "momo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Documents/A01_Obsidian/A03_Code/04_Swift/momo/momo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "7A487B19-7A96-456A-9356-BC724B33CE1B - c17557228e5effcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "momo.ContentView.init() -&gt; momo.ContentView"
+                  moduleName = "momo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Documents/A01_Obsidian/A03_Code/04_Swift/momo/momo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "648D0955-D1AF-420D-B5F9-A73402B993D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "momo/MessageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B4F20FD-74F9-46BB-92E1-8F42794A6A3C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "momo/MessageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getMessages()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0B4F20FD-74F9-46BB-92E1-8F42794A6A3C - 3aa8766a94af1926"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "momo.MessagesManager.getMessages() -&gt; ()"
+                  moduleName = "momo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Documents/A01_Obsidian/A03_Code/04_Swift/momo/momo/MessageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "0B4F20FD-74F9-46BB-92E1-8F42794A6A3C - bb930c7329547131"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in momo.MessagesManager.getMessages() -&gt; ()"
+                  moduleName = "momo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Documents/A01_Obsidian/A03_Code/04_Swift/momo/momo/MessageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D06A46C-85C3-45B9-8326-FD35F6C95F5B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "momo/MessageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getMessages()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2E64358-5E7B-4D41-88C5-4359FF311706"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "momo/MessageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getMessages()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B2E64358-5E7B-4D41-88C5-4359FF311706 - bb930c73295471f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in momo.MessagesManager.getMessages() -&gt; ()"
+                  moduleName = "momo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Documents/A01_Obsidian/A03_Code/04_Swift/momo/momo/MessageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "948">
+               </Location>
+               <Location
+                  uuid = "B2E64358-5E7B-4D41-88C5-4359FF311706 - c32108701e15ebee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRQueryDocumentSnapshot) -&gt; Swift.Optional&lt;momo.Message&gt; in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in momo.MessagesManager.getMessages() -&gt; ()"
+                  moduleName = "momo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Documents/A01_Obsidian/A03_Code/04_Swift/momo/momo/MessageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA361C6B-1551-499F-898F-A67C6E0F5453"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "momo/MessageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "MessagesManager"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "759F6376-C8CB-41C1-BCAC-8C2ADE460CFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "momo/MessageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6872C9B6-9A21-48EE-BC09-335A93FB1C27"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memo/MessageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getMessages()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6872C9B6-9A21-48EE-BC09-335A93FB1C27 - 845d7937476ee762"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memo.MessagesManager.getMessages() -&gt; ()"
+                  moduleName = "memo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Downloads/momo/memo/MessageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "6872C9B6-9A21-48EE-BC09-335A93FB1C27 - c008c117d4620a33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in memo.MessagesManager.getMessages() -&gt; ()"
+                  moduleName = "memo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Downloads/momo/memo/MessageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B23B109F-6381-4D07-A4CE-3EAE8C232613"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memo/MessageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getMessages()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B085D52F-0F0C-40C3-91C7-1D34AA5CEEB0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memo/ViewModels/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E170325-3DEF-48DE-B6CE-385B28321B4E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memo/ViewModels/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "getToDo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E170325-3DEF-48DE-B6CE-385B28321B4E - 1195ff8672b7dbbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memo.DataStore.getToDo() -&gt; ()"
+                  moduleName = "memo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Downloads/momo/memo/ViewModels/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "2E170325-3DEF-48DE-B6CE-385B28321B4E - 24cb1f3de2b76a89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in memo.DataStore.getToDo() -&gt; ()"
+                  moduleName = "memo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Downloads/momo/memo/ViewModels/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E273EFBD-113B-4E41-8C94-56E533089206"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memo/ViewModels/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "getToDo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13EDADBC-B74D-4DAF-AB69-CA67C2793361"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memo/ViewModels/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "getToDo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "13EDADBC-B74D-4DAF-AB69-CA67C2793361 - 24cb1f3de2b76a2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in memo.DataStore.getToDo() -&gt; ()"
+                  moduleName = "memo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Downloads/momo/memo/ViewModels/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "980">
+               </Location>
+               <Location
+                  uuid = "13EDADBC-B74D-4DAF-AB69-CA67C2793361 - 22a97db5622d3923"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRQueryDocumentSnapshot) -&gt; Swift.Optional&lt;memo.ToDo&gt; in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in memo.DataStore.getToDo() -&gt; ()"
+                  moduleName = "memo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Downloads/momo/memo/ViewModels/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2ED5B841-BB25-4BCB-8921-C124A0254DA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memo/Componets/ToDoBubble.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2E3EF79-83F1-4C9D-B93A-27240A2949C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memo/ViewModels/ToDoFormViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F747A137-DF7E-45A9-99E5-208D9C9DBE80"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memo/Views/ToDoFormView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ToDoFormView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "F747A137-DF7E-45A9-99E5-208D9C9DBE80 - a25709e1630d3d3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of memo.ToDoFormView.formVM : memo.ToDoFormViewModel"
+                  moduleName = "memo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Downloads/momo/memo/Views/ToDoFormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "F747A137-DF7E-45A9-99E5-208D9C9DBE80 - c80f8f776d5cee60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memo.ToDoFormView.formVM.getter : memo.ToDoFormViewModel"
+                  moduleName = "memo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Downloads/momo/memo/Views/ToDoFormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "F747A137-DF7E-45A9-99E5-208D9C9DBE80 - 590769c5febb466c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memo.ToDoFormView.formVM.setter : memo.ToDoFormViewModel"
+                  moduleName = "memo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Downloads/momo/memo/Views/ToDoFormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "F747A137-DF7E-45A9-99E5-208D9C9DBE80 - 2bd929e80e9463"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memo.ToDoFormView.formVM.modify : memo.ToDoFormViewModel"
+                  moduleName = "memo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Downloads/momo/memo/Views/ToDoFormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F747A137-DF7E-45A9-99E5-208D9C9DBE80 - 180e54d19315e86c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memo.ToDoFormView.formVM.modify : memo.ToDoFormViewModel with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "memo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Downloads/momo/memo/Views/ToDoFormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "F747A137-DF7E-45A9-99E5-208D9C9DBE80 - 81803a44c0500298"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memo.ToDoFormView.$formVM.getter : SwiftUI.ObservedObject&lt;memo.ToDoFormViewModel&gt;.Wrapper"
+                  moduleName = "memo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eeee/Downloads/momo/memo/Views/ToDoFormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
